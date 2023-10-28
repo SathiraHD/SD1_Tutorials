@@ -1,0 +1,6 @@
+#Question 4 v) 
+print('(Covert str into int)')
+num_1 = input('Enter number one: ')
+num_2 = input('Enter number two: ')
+total = (int(num_1) + int(num_2))
+print(total)
